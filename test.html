@@ -55,7 +55,14 @@
         <tbody>
           
         </tbody>
+	      
 	    </table>
 <form action="http://validator.w3.org/nu/" method="GET">
-	<input type="text" name="doc">
+	<label for="docurl">Page to Validate:</label>
+	<input type="text" name="doc" id="docurl" placeholder="Please enter a valid URL">
+	<input type="checkbox" name="show source" id="checkbox" checked>
+	<label for="checkbox">Show source?</label>
+	<input type="submit" value="Finish">
+	<!--<textarea id="docurl" name"doc">Put Your Link Here</textarea>
+-->
 </form>
