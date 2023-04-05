@@ -4,6 +4,7 @@ span {
 }
 body {
   background-color: rgb(137,207,240);
+  font-color: rgb(255,255,255);
 }
 th, td {
   padding: 20px;
@@ -13,7 +14,11 @@ th, td {
 }
 h1 {
   font-size: 24pt;
+  font-color: rgb(255,255,255); 
 }  
 a:hover {
   background-color: rgb(186,219,255);
+}
+img {
+  width: 50%;
 }
