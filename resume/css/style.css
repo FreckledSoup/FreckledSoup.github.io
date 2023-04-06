@@ -21,7 +21,7 @@ a:hover {
 }
 *
 {
-  color: rgb(255,255,255);
+  font-color: rgb(255,255,255);
   text-alight: center;
 }
 nav {
