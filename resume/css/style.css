@@ -13,10 +13,25 @@ th, td {
   border-spacing: 3px;
 }
 h1 {
-  font-size: 24pt;
-  font-color: rgb(255,255,255); 
+  text-alight: center;
+  font-size: calc(12pt + 4vw); 
 }  
 a:hover {
   background-color: rgb(186,219,255);
+}
+*
+{
+  color: rgb(255,255,255);
+  text-alight: center;
+}
+nav {
+  border: 3px rgb(186,219,255) solid;
+}
+section {
+  border: 3px rgb (186,219,260) solid; 
+  margib: 5px;
+}
+li {
+  display: block; 
 }
 
