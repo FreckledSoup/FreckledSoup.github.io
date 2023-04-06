@@ -29,7 +29,7 @@ nav {
 }
 section {
   border: 3px rgb (186,219,260) solid; 
-  margib: 5px;
+  margin: 5px;
 }
 li {
   display: block; 
