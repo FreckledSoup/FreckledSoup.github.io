@@ -21,7 +21,7 @@ a:hover {
 }
 *
 {
-  color: rgb(255,255,255);
+  font-color: rgb(255,255,255);
   text-alight: center;
 }
 nav {
@@ -29,9 +29,12 @@ nav {
 }
 section {
   border: 3px rgb (186,219,260) solid; 
-  margib: 5px;
+  margin: 5px;
 }
 li {
   display: block; 
+}
+img {
+  width: 25%;
 }
 
