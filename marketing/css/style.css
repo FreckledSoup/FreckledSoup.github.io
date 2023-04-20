@@ -1,0 +1,39 @@
+span {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+body {
+  background-color: rgb(229,101,101);
+  font-color: rgb(255,255,255);
+}
+th, td {
+  padding: 20px;
+  border: 3px ridge rgb(0,0,0);
+  margin: 10px;
+  border-spacing: 3px;
+}
+h1 {
+  text-alight: center;
+  font-size: calc(12pt + 4vw); 
+}  
+a:hover {
+  background-color: rgb(188,32,32);
+}
+*
+{
+  font-color: rgb(255,255,255);
+  text-alight: center;
+}
+nav {
+  border: 3px rgb(119,21,21) solid;
+}
+section {
+  border: 3px rgb(119,21,21) solid; 
+  margin: 5px;
+}
+li {
+  display: block; 
+}
+img {
+  width: 25%;
+}
